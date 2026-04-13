@@ -1,0 +1,10 @@
+ipywidgets==8.1.8
+kagglehub==1.0.0
+matplotlib==3.10.8
+notebook==7.5.5
+pandas==3.0.2
+scikit-learn==1.8.0
+torch
+torchvision
+tqdm==4.67.3
+
